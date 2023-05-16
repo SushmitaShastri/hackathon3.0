@@ -1,0 +1,10 @@
+{
+  "codewarriors_prospectives": {
+    "xyzmodel": {
+      "table_name": "employee123,managers123,student123"
+    },
+    "XYZTransact": {
+      "table_name": "employee,managers,student"
+    }
+  }
+}
